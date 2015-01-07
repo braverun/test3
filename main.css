@@ -1,0 +1,13 @@
+body{
+  background-image: url("https://ununsplash.imgix.net/photo-1417870839255-a23faa90c6b0?fit=crop&fm=jpg&h=700&q=75&w=1050");;
+  background-position: fixed;
+  background-size: cover;
+}
+body background {
+  image: url("https://ununsplash.imgix.net/photo-1417870839255-a23faa90c6b0?fit=crop&fm=jpg&h=700&q=75&w=1050");
+  position: fixed;
+  size: cover;
+}
+p{
+  color: white;
+}
